@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exemplo Layouts</string>
+    <string name="lbl_primeiro">Primeiro</string>
+    <string name="lbl_segundo">Segundo Botão</string>
+    <string name="lbl_terceiro">Terceiro Botão</string>
+    <string name="lbl_quarto">Quarto Botão</string>
+    <string name="lbl_margin">Margin</string>
+    <string name="lbl_padding">Padding</string>
+    <string name="lbl_um">Um</string>
+    <string name="lbl_exemplo">exemplo</string>
+    <string name="lbl_peso">de peso</string>
+</resources>
